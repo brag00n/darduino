@@ -1,4 +1,4 @@
-FROM arm32v7/ubuntu:16.04
+FROM arm32v7/ubuntu:latest
 
 ENV HOME /home/developer
 WORKDIR /home/developer
